@@ -2,10 +2,6 @@
   ✨ This.e 2조 ✨
 </h1>
 
-<h2 align="center">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FThisDotE%2FInnerJoinUs.git&count_bg=%232884FF&title_bg=%23FFA900&icon=googleclassroom.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <div align=center>
 <img src="https://github.com/ThisDotE/InnerJoinUs/assets/149561287/3bdd0c01-14e3-40e2-aa4a-870df774856c">
 
